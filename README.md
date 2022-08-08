@@ -1,9 +1,15 @@
+<div align="center">
+
 ### 👋 Hello! Glad you're here :) 👋
 
 Welcome to my page!
 I'm Artem, Backend developer from Russia.
 
-At work I use: 
+At work I use:
+
+</div>
+
+<div align="center">
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -25,3 +31,14 @@ At work I use:
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+</div>
+
+<div align="center">
+
+![Linux](https://svgshare.com/i/Zhy.svg)
+![](https://komarev.com/ghpvc/?username=aimerkz)
+[![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimerkz&layout=compact)](https://github.com/aimerkz/github-readme-stats)
+</div>
