@@ -38,7 +38,7 @@ At work I use:
 
 ![Linux](https://svgshare.com/i/Zhy.svg)
 ![](https://komarev.com/ghpvc/?username=aimerkz)
-[![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+![Followers](https://img.shields.io/github/followers/aimerkz)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimerkz&layout=compact)](https://github.com/aimerkz/github-readme-stats)
 </div>
