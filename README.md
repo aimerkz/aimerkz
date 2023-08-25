@@ -34,7 +34,6 @@ At work I use:
 
 <div align="center">
 
-![Linux](https://svgshare.com/i/Zhy.svg)
 ![](https://komarev.com/ghpvc/?username=aimerkz)
 ![Followers](https://img.shields.io/github/followers/aimerkz)
 ---
