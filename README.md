@@ -2,7 +2,7 @@
 
 ### 👋 Hello! Glad you're here :) 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Artem,+Backend+Python+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5B6FF7&width=435&lines=I'm+Artem%2C+Backend+Python+developer)](https://git.io/typing-svg)
 
 At work I use:
 
