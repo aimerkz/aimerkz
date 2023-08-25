@@ -3,7 +3,7 @@
 ### 👋 Hello! Glad you're here :) 👋
 
 Welcome to my page!
-I'm Artem, Backend developer from Russia.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Artem+,+Backend+developer+from+Russia+.)](https://git.io/typing-svg)
 
 At work I use:
 
