@@ -38,3 +38,5 @@ At work I use:
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimerkz&layout=compact)](https://github.com/aimerkz/github-readme-stats)
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aimerkz&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
