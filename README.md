@@ -39,6 +39,8 @@ At work I use:
 ![](https://komarev.com/ghpvc/?username=aimerkz)
 ![Followers](https://img.shields.io/github/followers/aimerkz)
 ---
+![Codewars](https://www.codewars.com/users/MerkZZZ/badges/large)
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimerkz&layout=compact)](https://github.com/aimerkz/github-readme-stats)
 </div>
 
