@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C0F756&width=435&lines=I'm+Artem%2C+Backend+Python+developer)](https://git.io/typing-svg)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://amerkulovcv.streamlit.app)
+
 At work I use:
 
 </div>
